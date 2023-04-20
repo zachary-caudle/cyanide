@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
 
 body {
-  background-image: linear-gradient(to right, red, yellow);
+  background-image: linear-gradient(to bottom right, red, yellow);
   color: #FFF;
   text-align: center;
   font-size: 30px;
